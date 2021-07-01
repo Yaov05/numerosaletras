@@ -1,6 +1,6 @@
 package numerosaletras
 
-//"Convertir" convierte un número a letras
+//"Convertir" convierte un número a letras hasta 19
 func Convertir(numero int) string {
 	var respuesta string
 	if numero >= 10 {
